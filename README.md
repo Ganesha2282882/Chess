@@ -1,5 +1,7 @@
-# chess_tk
-python3 tkinter chess
+# Chess
+Welcome to PyChess!
 
-In this project i took the code for the chess game from the book "Tkinter GUI application development" and made it compatible with
-Python3.
+PyChess is where you play chess against the computer!
+Works on Windows Vista & newer @ 03-03-2020!
+
+If you want Windows XP, use KernelX or something.
