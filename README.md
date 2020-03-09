@@ -15,5 +15,5 @@ To run it, Just run "main.py" and you should be fine.
 # Links
 ~~~
 https://www.python.org/downloads/release/python-340/
-http://kernelex.sourceforge.net/
+https://sourceforge.net/projects/kernelex/
 ~~~
